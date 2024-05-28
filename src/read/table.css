@@ -1,0 +1,9 @@
+.tableDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+td {
+  padding: 0px 5rem;
+}
